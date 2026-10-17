@@ -1,0 +1,7 @@
+*.csv
+*.zip
+*.mp4
+*.docx
+.ipynb_checkpoints/
+__pycache__/
+.env
